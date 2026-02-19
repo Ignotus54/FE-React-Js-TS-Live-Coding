@@ -17,4 +17,5 @@ correctness rather than rigid implementation expectations.
 + Install necessary packages.
 + Refer to Tasks folder for your assessment.
 + Each subsequent step builds on previous task's code.
-+ Create a branch with main as the base, Name it **candidateName | FE Test**
++ Create a branch with main as the base, Name it submission/candidate-name then 
+create a PR with name **candidateName | FE Test**
